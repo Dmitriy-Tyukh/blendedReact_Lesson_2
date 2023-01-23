@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blendedReact_Lesson_2/static/css/main.7acaea2f.css",
-    "main.js": "/blendedReact_Lesson_2/static/js/main.07d3183d.js",
-    "index.html": "/blendedReact_Lesson_2/index.html",
-    "main.7acaea2f.css.map": "/blendedReact_Lesson_2/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/blendedReact_Lesson_2/static/js/main.07d3183d.js.map"
+    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
+    "main.js": "/react-homework-template/static/js/main.f75162ca.js",
+    "index.html": "/react-homework-template/index.html",
+    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
+    "main.f75162ca.js.map": "/react-homework-template/static/js/main.f75162ca.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/js/main.f75162ca.js"
   ]
 }
